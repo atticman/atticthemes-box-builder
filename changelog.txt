@@ -1,0 +1,190 @@
+<h4>Version 2.3.7</h4>
+<ul>
+	<li>Updated saving mechanics for better, stable concept.</li>
+	<li>Fixed the issue with "Preview Changes" button that did not open a preview window.</li>
+</ul>
+
+<h4>Version 2.3.6</h4>
+<ul>
+	<li>Fixed the problem where BoxBuilder would remove the default content of the page.</li>
+	<li>Now a video link (Vimeo, YouTube, etc) will be converted to players on the front end if used in a TextBlock for example.</li>
+</ul>
+
+<h4>Version 2.3.5</h4>
+<ul>
+	<li>Fixed an issue where pages would not be published</li>
+</ul>
+
+<h4>Version 2.3.4</h4>
+<ul>
+	<li>Fixed an issue with resources not being loaded properly</li>
+</ul>
+
+<h4>Version 2.3.3</h4>
+<ul>
+	<li>Fixed the issue with content not being updated when using the "Update" button from the sidebar</li>
+	<li>Fixed an issue with the dropcap widget</li>
+	<li>WordPress 4.3 compatibility</li>
+</ul>
+
+<h4>Version 2.3.2</h4>
+<ul>
+	<li>Backward compatibility fixes where data saved on older versions of BoxBuilder, would not be directly transferred to the newer version. This should fix the issue of having empty Sections and Rows when switching to the Box BUilder tab.</li>
+</ul>
+
+<h4>Version 2.3.1</h4>
+<ul>
+	<li>Fixed issue caused by empty sections.</li>
+	<li>Changed the data type that is being saved from object to base64 encoded string (is backward compatible).</li>
+	<li>Added import export mechanism.</li>
+</ul>
+
+<h4>Version 2.3.0</h4>
+<ul>
+	<li>Added support for WordPress's revision system.</li>
+	<li>Moved Save button below the widget and section editor and added a Cancel button for better UI/UX.</li>
+	<li>Added "Sectio ID" option in section settings for easier anchor linking.</li>
+	<li>Added "Section Name" to the section settings. You can use this to describe what is inside the section for easier section managment.</li>
+	<li>Added an easy way to disable widgets via PHP.</li>
+</ul>
+
+<h4>Version 2.2.11</h4>
+<ul>
+	<li>Fixed and improved BoxBuilder gallery layout system.</li>
+</ul>
+
+<h4>Version 2.2.10</h4>
+<ul>
+	<li>A bug fix concerning portfolio widget not being able to save the data.</li>
+</ul>
+
+<h4>Version 2.2.9</h4>
+<ul>
+	<li>A small bug fix.</li>
+</ul>
+
+<h4>Version 2.2.8</h4>
+<ul>
+	<li>Minor bug fixes and tweaks.</li>
+	<li>Fixed a compatibility issue with Advanced Custom Fields Plugin.</li>
+</ul>
+
+<h4>Version 2.2.7</h4>
+<ul>
+	<li>Minor bug fixes and WordPRess 4.1 compatibility.</li>
+</ul>
+
+<h4>Version 2.2.6</h4>
+<ul>
+	<li>Fixed some issues with them Team Members Widget.</li>
+	<li>Added a Grid gallery style to Team Members settings. Now you can have the Team Members as a gallery or a slider.</li>
+	<li><h4>If you have our Skoty or Litte theme you need to update to the latest version for the respective theme for the new Team Members Widget to work.</h4></li>
+</ul>
+
+<h4>Version 2.2.4</h4>
+<ul>
+	<li>Minor bug fixes and WordPRess 4.0 compatibility.</li>
+</ul>
+
+Version 2.2.2</h4>
+<ul>
+	<li>Fixed an issue with Skills widget.</li>
+</ul>
+
+<h4>Version 2.2.0</h4>
+<ul>
+	<li>Updated the core with some new features that allow an easier widget integration / extension.</li>
+</ul>
+
+<h4>Version 2.1.5</h4>
+<ul>
+	<li>Fixed some minor bugs.</li>
+</ul>
+
+Version 2.1.4</h4>
+<ul>
+	<li>Rewrote the text editor script, should now work in all widgets.</li>
+	<li>Fixed some minor bugs.</li>
+</ul>
+
+<h4>Version 2.1.3</h4>
+<ul>
+	<li>Small bug fixes.</li>
+</ul>
+
+<h4>Version 2.1.2</h4>
+<ul>
+	<li>Added a new search form Widget.</li>
+</ul>
+
+<h4>Version 2.1.1</h4>
+<ul>
+	<li>Added WordPRess 3.9 support, switched to new version of the text editor.</li>
+</ul>
+
+<h4>Version 2.0.5</h4>
+<ul>
+	<li>Added a local fallback for FontAwseome Iconic font.</li>
+</ul>
+
+<h4>Version 2.0.4</h4>
+<ul>
+	<li>Added an option in the included plugin (BoxBuilder) to select a background color for sections in addition to background images and videos.</li>
+</ul>
+
+<h4>Version 2.0.3</h4>
+<ul>
+	<li>Changed the "Content Builder" botton style and placed it next to the "Visual" and "Text" tabs. Refined some styling of the sections, rows and widgets.</li>
+</ul>
+
+<h4>Version 2.0.2</h4>
+<ul>
+	<li>Fixed some issues concerning the section background types (fixed, normal, parallax) where sometimes the media would not load.</li>
+</ul>
+
+<h4>Version 2.0.1</h4>
+<ul>
+	<li>Fixed couple of small bugs with the parallax background of sections.</li>
+</ul>
+
+<h4>Version 2.0.0</h4>
+<ul>
+	<li>Added sections to group up rows.</li>
+	<li>Can set background media (image, video) to the newly added sections, with verious options.</li>
+	<li>Fixed some minor bugs.</li>
+	<li>Refined some sections of the code.</li>
+</ul>
+
+<h4>Version 1.1.2</h4>
+<ul>
+	<li>Removed some code written for debugging, accidently left after development process.</li>
+</ul>
+
+<h4>Version 1.1.1</h4>
+<ul>
+	<li>Fixed a bug in Message Box widget where the html tags (like &lt;p&gt; tags) where visible on the preview of the widget in the admin.</li>
+	<li>Fixed a similar bug in Dropcap widget.</li>
+</ul>
+
+<h4>Version 1.1.0</h4>
+<ul>
+	<li>Add a new widget: Skills</li>
+	<li>Add a new widget: Services</li>
+	<li>Add a new widget: Team Members</li>
+</ul>
+
+<h4>Version 1.0.4</h4>
+<ul>
+	<li>Changed the "Content Builder" button to WordPress\'s primary button to make it stand out.</li>
+	<li>Chaned the "Add Layout" button label to "Add Row".</li>
+</ul>
+
+<h4>Version 1.0.2</h4>
+<ul>
+	<li>Some minor bug fixes.</li>
+</ul>
+
+<h4>Version 1.0.0</h4>
+<ul>
+	<li>Release version</li>
+</ul>
